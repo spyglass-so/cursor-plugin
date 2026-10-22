@@ -1,0 +1,26 @@
+{
+  "name": "spyglass",
+  "version": "1.0.0",
+  "description": "Search paid Meta ads, organic Instagram posts, and TikTok videos across brands and creators \u2014 with creative hooks, angles, personas, campaigns, collaborations, landing pages, and public comments.",
+  "author": {
+    "name": "Spyglass",
+    "email": "support@spyglass.so"
+  },
+  "homepage": "https://docs.spyglass.so",
+  "repository": "https://github.com/spyglass-so/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "spyglass",
+    "ads",
+    "ad-intelligence",
+    "meta-ads",
+    "tiktok",
+    "instagram",
+    "brands",
+    "creators",
+    "marketing",
+    "creative-strategy",
+    "mcp"
+  ],
+  "logo": "assets/icon.png"
+}
